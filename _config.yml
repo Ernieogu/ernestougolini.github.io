@@ -88,7 +88,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  "/images/P1199742.png"
+teaser                   :  "/images/P1199742.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
