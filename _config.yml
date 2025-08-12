@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "P1199742.jpg.png"
   name             : "Ernesto Ugolini"
   pronouns         : # example: "she/her"  
   bio              : "Teaching Fellow at Aix-Marseille School of Economics"
@@ -88,7 +88,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  "/images/P1199742.jpg"
+teaser                   :  #"/images/"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
